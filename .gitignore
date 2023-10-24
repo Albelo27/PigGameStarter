@@ -1,0 +1,11 @@
+.idea
+.gradle
+.DS_Store
+*.iml
+*.ipr
+*.iws
+out/
+app/build/
+build/
+local.properties
+vcs.xml
